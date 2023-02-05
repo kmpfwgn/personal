@@ -1,0 +1,1 @@
+rate(windows_net_bytes_received_total{nic="ASUS_PCE_AC68_802_11ac_Network_Adapter"}[30s])
